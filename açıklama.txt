@@ -1,0 +1,3 @@
+'calculate_similarity fonksiyonu, iki metni parametre
+olarak alır ve bu metinlerdeki kelimeleri kullanarak
+bir benzerlik yüzdesi hesaplar. Metinlerdeki kelimeler küme olarak alınır ve bu kümelerin kesişimi ile birleşimi hesaplanarak benzerlik oranı bulunur. Benzerlik, ortak kelimelerin toplam kelime sayısına oranı olarak hesaplanır.
