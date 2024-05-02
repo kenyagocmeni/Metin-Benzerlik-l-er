@@ -38,8 +38,8 @@ def calculate_similarity(text1, text2):
 clear_texts()
 
 # Metinleri veritabanına yükle
-text1 = "Bu bir deneme metnidir, özgün içerikler içermektedir."
-text2 = "Bu metin de deneme amaçlıdır ve bazı özgün içerikleri barındırır."
+text1 = "Bu bir deneme metnidir."
+text2 = "Bu metin de deneme amaçlıdır ama biraz farklıdır."
 insert_text(text1)
 insert_text(text2)
 
